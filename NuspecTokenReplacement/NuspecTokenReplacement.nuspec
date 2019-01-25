@@ -1,0 +1,13 @@
+﻿<?xml version="1.0"?>
+<package  xmlns="http://schemas.microsoft.com/packaging/2013/05/nuspec.xsd">
+  <metadata>
+    <id>NuspecTokenReplacement</id>
+    <version>1.4.0.0</version>
+    <description>description</description>
+    <authors>authors</authors>
+    <summary></summary>
+  </metadata>
+  <files>
+    <file src="bin\Release\net461\*" target="lib\net461" />
+  </files>
+</package>
